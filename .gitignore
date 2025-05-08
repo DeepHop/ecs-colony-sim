@@ -1,0 +1,17 @@
+# === Rust Build Output ===
+/target/
+**/*.rs.bk
+*.log
+*.tmp
+
+# === IDEs ===
+.vscode/
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Backups ===
+*~
+*.swp

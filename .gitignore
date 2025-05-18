@@ -15,10 +15,12 @@ Thumbs.db
 # === Backups ===
 *~
 *.swp
+*.bak
 
 # === Other ===
 otm.py
 /obsidian_vault
+/docs
 
 # Added by cargo
 
